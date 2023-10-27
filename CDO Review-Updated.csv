@@ -3,14 +3,14 @@
 ‎FastTrack‎ assistance 
 If you can't complete your deployment using this guide; the ability to exit the guide and engage with a ‎Microsoft 365‎ ‎FastTrack‎ specialist is offered in a message bar at the top of every instructional page. ‎FastTrack‎ assistance is available to organizations that meet specific eligibility requirements."" 
 CDO review",Communications,CDO - Learn
-"In the updated ADG for Intune, there is a learning path that customers can select called 'Intune and Teams'. The description of this learning path says ""‎Teams‎ for ‎iOS‎ and ‎Android‎ supports app settings that allow unified endpoint management, like ‎Microsoft Endpoint Manager‎, administrators to customize the behavior of the app."" But when you click that path, the resulting guidance is all focused on enrollment Teams Rooms on Windows and mentions bulk enrollment using provisioning packages on a USB stick. There is no reference or guidance about enrolling or the settings available for Teams on iOS and Android. This is misleading and should be updated to include specific guidance for iOS and Android. My customer was hopeful to use this guide to manage Teams on Android. 
+"In the updated ADG for Intune; there is a learning path that customers can select called 'Intune and Teams'. The description of this learning path says ""‎Teams‎ for ‎iOS‎ and ‎Android‎ supports app settings that allow unified endpoint management; like ‎Microsoft Endpoint Manager‎; administrators to customize the behavior of the app."" But when you click that path; the resulting guidance is all focused on enrollment Teams Rooms on Windows and mentions bulk enrollment using provisioning packages on a USB stick. There is no reference or guidance about enrolling or the settings available for Teams on iOS and Android. This is misleading and should be updated to include specific guidance for iOS and Android. My customer was hopeful to use this guide to manage Teams on Android. 
 CDO reviewed
 ",Communications,CDO - Learn
 "The current FT Description (FastTrack Center Benefit for Microsoft 365​ - FastTrack – Microsoft 365 | Microsoft Learn) mentions that: 
-FastTrack offers assistance in the following languages: Traditional Chinese and Simplified Chinese (resources speak Mandarin only), English, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Spanish, Thai, and Vietnamese.
-However, we cover other languages as well with the help of our FastTrack ready Partners. Considering we target 90/95% of RFAs to be assigned to FRPs, we should also mention other languages based on the countries where we have FRPs. Countries should be mentioned also. 
+FastTrack offers assistance in the following languages: Traditional Chinese and Simplified Chinese (resources speak Mandarin only); English; French; German; Italian; Japanese; Korean; Portuguese (Brazil); Spanish; Thai; and Vietnamese.
+However; we cover other languages as well with the help of our FastTrack ready Partners. Considering we target 90/95% of RFAs to be assigned to FRPs; we should also mention other languages based on the countries where we have FRPs. Countries should be mentioned also. 
 CDO reviewed",Documentation,CDO - Learn
-"It will be valuable to have the new FastTrack EDM/Pilot program description, structure, benefits, deployment phases and workloads one-pagers included in the customer facing FastTrack for M365 Benefit description customer deck and Field landing deck. 
+"It will be valuable to have the new FastTrack EDM/Pilot program description; structure; benefits; deployment phases and workloads one-pagers included in the customer facing FastTrack for M365 Benefit description customer deck and Field landing deck. 
 FastTrack for M365 Benefit description -https://microsoft.seismic.com/Link/Content/DCB6pb76V9HX6GMRGVBgd39DTmVG 
 FastTrack for M365 Field Landing deck 
 https://microsoft.seismic.com/Link/Content/DCB4W6GP6b4MqGWXq4DhFXBB6TbG
@@ -19,15 +19,15 @@ CDO reviewed",Playbook & Process,CDO - Learn
 CDO reviewed
 	Teams is under the Office 365 section which de-emphasis it and makes it harder to find. Teams should be broken out into its own section.
 		Office 365 is an outdated term. Shouldn't the title be 'Microsoft 365'?",Documentation,CDO - Learn
-"As the GA of each Copilot approaches, we have already received inquiries from many customers. In particular, Copilot in Windows has received inquiries in conjunction with the deployment of Windows 11, and it is expected that inquiries will increase more and more in the future. 
-In such a situation, the scope of FastTrack is not yet clear, so please clarify the scope of FastTrack for the deployment of these features. Also, if it falls into the scope of support, please clarify the scope of responsibility for each role. 
+"As the GA of each Copilot approaches; we have already received inquiries from many customers. In particular; Copilot in Windows has received inquiries in conjunction with the deployment of Windows 11; and it is expected that inquiries will increase more and more in the future. 
+In such a situation; the scope of FastTrack is not yet clear; so please clarify the scope of FastTrack for the deployment of these features. Also; if it falls into the scope of support; please clarify the scope of responsibility for each role. 
 CDO reviewed",Playbook & Process,CDO - Learn
 "Feedback sourced from VOC Customer Phone Survey ID: 601008.  Proactively provide documentation requested by decision makers in projects that will impact the go/no-go decision of deployment of the Microsoft product in the  Company Name&gt; landscape even when all technical aspects have been addressed.
 CDO reviewed     ",Field / FastTrack Integration,"CDO - Prepare,CES VOC FY24"
-"Feedback sourced from VOC Customer Phone Survey ID: 601007    Help us strengthen the arguments to defend the continuity in the use of this software, based on the returns of investment and the permanent support of Microsoft in the use and exploitation of the product, to have greater benefit. [Translated from Spanish]    CDO reviewed     ",Field / FastTrack Integration,CDO - Learn
-"Feedback sourced from VOC Customer Phone Survey ID: 601004    These sessions were very productive. It would be very interesting to be able to transfer knowledge of specific products to the technical area so that they can better support users in the use of the different tools in the cloud and exploit them to their full potential or be able to extend this benefit to users, to enrich their knowledge and provide solid bases to improve the use of the tools and lose the fear of change. [Translated from Spanish] CDO reviewed     ",Field / FastTrack Integration,CDO - Learn
+Feedback sourced from VOC Customer Phone Survey ID: 601007    Help us strengthen the arguments to defend the continuity in the use of this software; based on the returns of investment and the permanent support of Microsoft in the use and exploitation of the product; to have greater benefit. [Translated from Spanish]    CDO reviewed     ,Field / FastTrack Integration,CDO - Learn
+Feedback sourced from VOC Customer Phone Survey ID: 601004    These sessions were very productive. It would be very interesting to be able to transfer knowledge of specific products to the technical area so that they can better support users in the use of the different tools in the cloud and exploit them to their full potential or be able to extend this benefit to users; to enrich their knowledge and provide solid bases to improve the use of the tools and lose the fear of change. [Translated from Spanish] CDO reviewed     ,Field / FastTrack Integration,CDO - Learn
 Feedback sourced from VOC Customer Phone Survey ID: 402022    FastTrack was able to help us understand the requirements needed and the technical steps to reach our goal.   CDO reviewed          ,Field / FastTrack Integration,"CDO - Prepare,CES VOC FY24"
-"FastTrack Copilot solution PlayBook is required for Optimised workloads with co-relation and deeper insights on impact to copilot functions and search results. It should cover below items on MIP, DLP, DLM, Access Reviews and SyntexSharePoint site access which is not part of FT scope should be included as well for completeness. 
+"FastTrack Copilot solution PlayBook is required for Optimised workloads with co-relation and deeper insights on impact to copilot functions and search results. It should cover below items on MIP; DLP; DLM; Access Reviews and SyntexSharePoint site access which is not part of FT scope should be included as well for completeness. 
 1. Information Protection Labelling - Learn about sensitivity labels - Microsoft Purview (compliance) | Microsoft Learn 
 2. Content Migration/ Data Migration for Semantic Indexing - Semantic Index for Copilot: Explained by Microsoft 
 3.SharePoint Site Restrictions Configured - Restrict SharePoint site access - SharePoint in Microsoft 365 | Microsoft Learn 
@@ -40,15 +40,15 @@ CDO reviewed
 The provided explanation about oversharing with links is a bit misleading. It can be found under question 154 in https://aka.ms/m365copilotfaq. The question and the answers are: 
 My customer is concerned about oversharing through links. When I create a link for Everyone does that mean the file will show up in search for everyone? 
 When you create a file sharing link for everyone it does not mean that the file will show up in search or Copilot responses for everyone. They would need to click on the link for them to be registered as a user with access to that file. When the link is deleted that user will no longer have access to the file and it will not show up in their search or Copilot results. 
-The above answer is a bit misleading since there is no Everyone group or link option in SharePoint Online, there is Anyone link option available. 
+The above answer is a bit misleading since there is no Everyone group or link option in SharePoint Online; there is Anyone link option available. 
 The above text does not cover other type of sharing link like ""People in  your organization&gt;"" which might mislead people to think the guidance above applies to these type of link as well. That would be wrong assumption since when you share with People in your organization Copilot will index documents shared via these links and will return them in Copilot queries. I have tested this with my Copilot Preview access and that was my experience. I have not clicked any links to have them registered - files that I was not aware of were returned in my Copilot queries. 
-As well as highlighting in the document that any SPO sites (including Teams teams) for which users have no idea that they have access to via a Group, nested group or direct access will be returned in Copilot queries. 
+As well as highlighting in the document that any SPO sites (including Teams teams) for which users have no idea that they have access to via a Group; nested group or direct access will be returned in Copilot queries. 
 CDO reviewed",Documentation,CDO - Prepare
 "I have to scavenge within my emails to find if my SME requests have been fulfilled.
 CDO reviewed",Tool - FTOP,CDO - Configure
-"In FY24 we have the same problem in achieving our Purview OKR goals as we did in FY23 a large number of customers are completely adopted for MIP P2 but have no intent for IRM. Also, just as FY23 this fiscal year there is no partner in the ATU, STU or CSU who is goaled on adoption for Purview outside of the pay-for-support CSA role which is not possible/acceptable for many of our customers. Last fiscal year, in partnership between the OKR Champ team and our Americas SME team, an engagement approach was put together which started a pre-intent discussion led by an assigned Fasttrack SME and evolved into our standard deployment project approach. In the new evolved delivery model, there is not a set of tasks for the pre-intent portion of work and therefore leaves us without a way to address the initial discussions with our customers. During FY23, we ran this pre intent for IRM ""play"" dozens of times and saw a nearly perfect result with our customers moving quickly from no intent to 20% usage for IRM. 
+"In FY24 we have the same problem in achieving our Purview OKR goals as we did in FY23 a large number of customers are completely adopted for MIP P2 but have no intent for IRM. Also; just as FY23 this fiscal year there is no partner in the ATU; STU or CSU who is goaled on adoption for Purview outside of the pay-for-support CSA role which is not possible/acceptable for many of our customers. Last fiscal year; in partnership between the OKR Champ team and our Americas SME team; an engagement approach was put together which started a pre-intent discussion led by an assigned Fasttrack SME and evolved into our standard deployment project approach. In the new evolved delivery model; there is not a set of tasks for the pre-intent portion of work and therefore leaves us without a way to address the initial discussions with our customers. During FY23; we ran this pre intent for IRM ""play"" dozens of times and saw a nearly perfect result with our customers moving quickly from no intent to 20% usage for IRM. 
 CDO reviewed",Playbook & Process,CDO - Learn
-"Migration SMEs daily activities inlcude connecting through RDG to the migration infrastructure several times a day and to multiple machines. Currently (in the new Torus environment) the timeout for the RDG session is around 5 minutes. Having this causes the connection to be closed sooner and more frequently, forcing the SME to pause and reestrablish connectivty taking an average of 5 minutes per machine. 
+"Migration SMEs daily activities inlcude connecting through RDG to the migration infrastructure several times a day and to multiple machines. Currently (in the new Torus environment) the timeout for the RDG session is around 5 minutes. Having this causes the connection to be closed sooner and more frequently; forcing the SME to pause and reestrablish connectivty taking an average of 5 minutes per machine. 
  
 Potential solution: Increasing timeout to 10 minutes will give Migration SME's more bandwidth to better perform their activities.
 CDO reviewed 
@@ -66,47 +66,47 @@ CDO reviewed",FastTrack Partner,CDO - Learn
 "Feedback sourced from VOC Customer Phone Survey ID:402005
 FastTrack could provide a list of partners for all countries to reduce friction of having to source and get agreements in place.
 CDO reviewed",Communications,CDO - Learn
-"Several customers and FTAs ask for a one pager Viva Suite, what can FastTrack offer to support. As we saw many sales motions in FY23 now several customers purchased the suite without intent. To drive them forward and initiate at least pilots to meet the 100 MAU OKR a one pager as conversation starter would be extremly helpful. 
+"Several customers and FTAs ask for a one pager Viva Suite; what can FastTrack offer to support. As we saw many sales motions in FY23 now several customers purchased the suite without intent. To drive them forward and initiate at least pilots to meet the 100 MAU OKR a one pager as conversation starter would be extremly helpful. 
 CDO reviewed",Playbook & Process,CDO - Learn
-"In Microsoft 365 Copilot EAP Fasttrack.pptx, M365 Fasttrack is supposed to provideOptimized approach, which is decribed as Highly recommended and focused on data compliance, preventing over-sharing and potential internal data leakage. 
+"In Microsoft 365 Copilot EAP Fasttrack.pptx; M365 Fasttrack is supposed to provideOptimized approach; which is decribed as Highly recommended and focused on data compliance; preventing over-sharing and potential internal data leakage. 
 Microsoft 365 Copilot EAP FastTrack.pptx 
-To deliver this approach and provide secured and safe use for M365 Colilot, there is a lack of deck and training especially for FTA and FM, derivering the session for the customer. Because there is only one slide to explain Optimized and furthermoew, the slide provides just a link for learn.microsoft.com. 
-To provide high-quality and structured sessions to our customers, training for the delivery team and materials for customer explanations are necessary 
+To deliver this approach and provide secured and safe use for M365 Colilot; there is a lack of deck and training especially for FTA and FM; derivering the session for the customer. Because there is only one slide to explain Optimized and furthermoew; the slide provides just a link for learn.microsoft.com. 
+To provide high-quality and structured sessions to our customers; training for the delivery team and materials for customer explanations are necessary 
 CDO reviewed",Learn,CDO - Prepare
 "Problem: The customer has mentioned 3 items that Crowdstrike is offering them in their POC that we aren't:
 1)Perform POCs in production environment
 2) They do POC's in 3 days. They are flexible in their scheduling and also customize the days based on user customizations
 3) They have a list of modules and use cases that they can individually test with customers.They have success criteria packages that align with the outcomes a customer's needs. They take things like MITRE top 10 ransomeware or anything else by request to detonate for their customers in the production POC to ensure it can defend.
 Impact: This is losing POC customers and currently the ATU is doing their best to match this.
-Solution: Create 2 options of POC one in a provided lab, one can be done in production
+Solution: Create 2 options of POC one in a provided lab; one can be done in production
 CDO reviewed",Proof of Concept (PoC),CDO - Learn
-"While working on POCaaS engagements, customers generally compares MDE feaatuers with compete products .e.g Crowdstrike, Tanalbe etc. 
+"While working on POCaaS engagements; customers generally compares MDE feaatuers with compete products .e.g Crowdstrike; Tanalbe etc. 
  
-A document with summary of Key features, unique capabilities where MDE is stronger than compete products will help SMEs to highlight those features and showcase benefits of our security products. 
+A document with summary of Key features; unique capabilities where MDE is stronger than compete products will help SMEs to highlight those features and showcase benefits of our security products. 
  
-This is applicable for all security workloads (MDO, MDE, MDA, MDI) 
+This is applicable for all security workloads (MDO; MDE; MDA; MDI) 
  
-We have an internal compete resource, however it is lengthy, it will be easier if we can have Key features summarised in a document. 
+We have an internal compete resource; however it is lengthy; it will be easier if we can have Key features summarised in a document. 
  
 Microsoft Defender for Endpoint - CSCompeteNinja (sharepoint.com)
 
 CDO reviewed",Proof of Concept (PoC),CDO - Learn
-"What idea are you suggesting? There was a recent Grow session on MDE deployment with AV in passive mode, and how to have teh cusomer conversation if the cusotmer can not move off a 3rd party solution. We are hearing requests from FTA's and other that they would like content that can be used with customers, as this is a topic that regualrly comes up. 
+"What idea are you suggesting? There was a recent Grow session on MDE deployment with AV in passive mode; and how to have teh cusomer conversation if the cusotmer can not move off a 3rd party solution. We are hearing requests from FTA's and other that they would like content that can be used with customers; as this is a topic that regualrly comes up. 
 
 
 How would you implement this? Create a one pager from the existing grow session presentation that can be used by delivery resoruces. 
 
 
-What measurable impact would this idea have? (hours per week or month) This will help customers see the value in our product if they are not able to get off of a 3rd party solution like crowdstrike, and may open the door for solution in the future. 
+What measurable impact would this idea have? (hours per week or month) This will help customers see the value in our product if they are not able to get off of a 3rd party solution like crowdstrike; and may open the door for solution in the future. 
 
  
 
 CDO reviewed 
 ",Playbook & Process,CDO - Prepare
-"Which feature, specifically, from the product is this tied to?
+"Which feature; specifically; from the product is this tied to?
 MigHub on FTC portal
 What is the problem/idea?
-In light of recent incidents and issues that had a customer impact, customers have been asking for a way to be aware of upcoming maintenance, or operations that could impact their migration events.
+In light of recent incidents and issues that had a customer impact; customers have been asking for a way to be aware of upcoming maintenance; or operations that could impact their migration events.
 What are they trying to do/achieve and/or what problem is encountered?
 Gain awareness of potential disruption so they can plan accordingly and delay migration batches that would fall in risky periods.
 
@@ -117,11 +117,11 @@ Customer is unaware of service health condition and cannot schedule their migrat
 
 Proposed solution (optional):
 
-Have a service health dashboard where high-level info is provided to customer potentially impacted by service maintenance, outages, or issues.
+Have a service health dashboard where high-level info is provided to customer potentially impacted by service maintenance; outages; or issues.
 
 CDO reviewed",Migration,CDO - Configure
 "What idea are you suggesting? 
-Task is incomplete, as it instructs the FM to walk through the workshop deck with the customer. However, there is no workshop deck or any other resources available, thus I am not sure if this task is set to be removed or revamped? 
+Task is incomplete; as it instructs the FM to walk through the workshop deck with the customer. However; there is no workshop deck or any other resources available; thus I am not sure if this task is set to be removed or revamped? 
 How would you implement this? Update task details and links with the relevant information and deck. 
 What measurable impact would this idea have? (hours per week or month) 
 It would help the person who should be delivering it prepare accordingly and have the deck handy to use in the customer call. 
@@ -142,7 +142,7 @@ Problem: The customer has mentioned 3 items that Crowdstrike is offering them in
 Impact: This is losing POC customers and currently the ATU is doing their best to match this.
 
 
-Solution: Create 2 options of POC one in a provided lab, one can be done in production
+Solution: Create 2 options of POC one in a provided lab; one can be done in production
 
 
 
@@ -150,15 +150,15 @@ CDO reviewed
 
 ",Proof of Concept (PoC),CDO - Learn
 "
-While working on POCaaS engagements, customers generally compares MDE feaatuers with compete products .e.g Crowdstrike, Tanalbe etc. 
+While working on POCaaS engagements; customers generally compares MDE feaatuers with compete products .e.g Crowdstrike; Tanalbe etc. 
  
  
  
-A document with summary of Key features, unique capabilities where MDE is stronger than compete products will help SMEs to highlight those features and showcase benefits of our security products. 
+A document with summary of Key features; unique capabilities where MDE is stronger than compete products will help SMEs to highlight those features and showcase benefits of our security products. 
  
-This is applicable for all security workloads (MDO, MDE, MDA, MDI) 
+This is applicable for all security workloads (MDO; MDE; MDA; MDI) 
  
-We have an internal compete resource, however it is lengthy, it will be easier if we can have Key features summarised in a document. 
+We have an internal compete resource; however it is lengthy; it will be easier if we can have Key features summarised in a document. 
  
 Microsoft Defender for Endpoint - CSCompeteNinja (sharepoint.com)
 
@@ -250,12 +250,12 @@ CDO reviewed
 
  
 ",Playbook & Process,"CDO - Prepare,CES VOC FY24"
-"  Feedback sourced from VOC Customer Phone Survey ID: 402015       Bought licensing for SSPR and cut company tickets for Password reset without being on VPN, but they are currently hybrid and must be all on Azure cloud. Documentation and sales were not clear on environment requirements and selling features they were not ready to deploy.   CDO reviewed       ",Documentation,CDO - Learn
+  Feedback sourced from VOC Customer Phone Survey ID: 402015       Bought licensing for SSPR and cut company tickets for Password reset without being on VPN; but they are currently hybrid and must be all on Azure cloud. Documentation and sales were not clear on environment requirements and selling features they were not ready to deploy.   CDO reviewed       ,Documentation,CDO - Learn
 "
 Feedback sourced from VOC Customer Phone Survey ID: 402003 
 
 
-When asked if they used the advanced deployment guide (IPE), customer responded that they were unaware it existed. 
+When asked if they used the advanced deployment guide (IPE); customer responded that they were unaware it existed. 
 
  
 
@@ -267,7 +267,7 @@ Feedback sourced from VOC Customer Phone Survey ID: 402007
  
  
 
-IPE Feedback: Customer shared that the Advanced Deployment Guides (ADG) did speed up the process of migration, however they still wanted advice as not all the questions they had were in the ADG. It helped the customer because they work with smaller customers  100 seats. 
+IPE Feedback: Customer shared that the Advanced Deployment Guides (ADG) did speed up the process of migration; however they still wanted advice as not all the questions they had were in the ADG. It helped the customer because they work with smaller customers  100 seats. 
 
  
 
@@ -308,7 +308,7 @@ CDO reviewed
 Feedback sourced from VOC Customer Phone Survey ID: 402001 
 
 
-The FastTrack Team has been fantastic, very flexible, and knowledgeable. They are also willing to reach out to other team members if they don’t have the answers to find the answers. It has been a great avenue to solve some issues we have been having and to get some other technologies out in our environment. 
+The FastTrack Team has been fantastic; very flexible; and knowledgeable. They are also willing to reach out to other team members if they don’t have the answers to find the answers. It has been a great avenue to solve some issues we have been having and to get some other technologies out in our environment. 
 
  
 
@@ -348,13 +348,13 @@ CDO reviewed
 Feedback sourced from VOC Customer Phone Survey ID: 402005 
 
 
-Customer stated when asked if it was easier to deploy Micrsosoft 365 through the pilot ""So first they've done a brilliant job so far to bring me, give me confidence in that I'm talking to the right people in order to move our Teams for Phone PSTN services. That is priceless"" 
+Customer stated when asked if it was easier to deploy Micrsosoft 365 through the pilot ""So first they've done a brilliant job so far to bring me; give me confidence in that I'm talking to the right people in order to move our Teams for Phone PSTN services. That is priceless"" 
 
 
 ""Those 20% use case and FastTrack have been instrumental in making sure I understand the challenges in those locations and understand the caveats involved well around what what Microsoft can and can't do another now."" 
 
 
-Customer share that they didnot do much self research, but they didn't think they needed to as they had expertise on hand. ""It's been very valuable for us to do this project and I can't imagine you if you didn't have this option, this project would definitely not been taking place at the speed it is right now."" 
+Customer share that they didnot do much self research; but they didn't think they needed to as they had expertise on hand. ""It's been very valuable for us to do this project and I can't imagine you if you didn't have this option; this project would definitely not been taking place at the speed it is right now."" 
 
  
 
@@ -368,16 +368,16 @@ CDO reviewed
 
  
 ",Field / FastTrack Integration,CDO - Enable
-" Feedback sourced from VOC Customer Phone Survey ID: 402011    POC worked with  Partner Name&gt; before in FastTrack and had an amazing experience. Their technical experience in MDE was incredible. ""If we didn't work with the partner, we would've been one of the companies in the news for being hacked"". We had huge security gaps, and the partners sped up the engagement/deployment 10-fold. Our user based isn't the most technical savvy, so it was critical for us to get this right because people are clicking phishing emails all the time.    Knowledge transfer and change management has also been amazing from the partner perspective, helping our technical staff get familiar with the solution, and we are now all experts in MDE. The settings we have configured in Defender is exactly tailored to our company and our demographic. They were perfectly matched to our technical needs.      CDO reviewed     ",FastTrack Partner,CDO - Enable
+" Feedback sourced from VOC Customer Phone Survey ID: 402011    POC worked with  Partner Name&gt; before in FastTrack and had an amazing experience. Their technical experience in MDE was incredible. ""If we didn't work with the partner; we would've been one of the companies in the news for being hacked"". We had huge security gaps; and the partners sped up the engagement/deployment 10-fold. Our user based isn't the most technical savvy; so it was critical for us to get this right because people are clicking phishing emails all the time.    Knowledge transfer and change management has also been amazing from the partner perspective; helping our technical staff get familiar with the solution; and we are now all experts in MDE. The settings we have configured in Defender is exactly tailored to our company and our demographic. They were perfectly matched to our technical needs.      CDO reviewed     ",FastTrack Partner,CDO - Enable
 "
 
 Feedback sourced from VOC Survey ID: 202004 
 
 
-Since FastTrack may not be able to answer more detailed issues and you may need to contact support, it would be more appreciated if you could answer from FastTrack who can talk directly. 
+Since FastTrack may not be able to answer more detailed issues and you may need to contact support; it would be more appreciated if you could answer from FastTrack who can talk directly. 
 
 
-In addition, there are cases where it is not supported, such as Azure area and on-premise area, so it would be appreciated if you could respond to the worries of MS products in general. [Translated from Japanese] 
+In addition; there are cases where it is not supported; such as Azure area and on-premise area; so it would be appreciated if you could respond to the worries of MS products in general. [Translated from Japanese] 
 
 CDO reviewed
 
@@ -402,7 +402,7 @@ CDO reviewed
 Feedback sourced from VOC Customer Phone Survey ID: 402011 
 
 
-Would like to see a formal disengagement plan, rather than the steep drop-off as we see now. Perhaps hand off documentation, etc. 
+Would like to see a formal disengagement plan; rather than the steep drop-off as we see now. Perhaps hand off documentation; etc. 
 
  
 
@@ -414,10 +414,10 @@ CDO reviewed
 Feedback sourced from VOC Customer Phone Survey ID: 402009 
 
 
-There is a big gap between the technical implementation and user adoption materials. That middle piece of the business partners and getting them hooked in, that is missing. There is a big stakeholder piece in the middle because that stakeholder piece is focusing on what are your business problems but we don’t want to know what our problems are, we know what the solution is. We want to sell to them what the solution is (Viva Learning). Then showcase Viva Learning and get them really hooked on Viva Learning, what it can do for them, how it can be used in their parts of the business, how they can sponsor usage across the business globally. 
+There is a big gap between the technical implementation and user adoption materials. That middle piece of the business partners and getting them hooked in; that is missing. There is a big stakeholder piece in the middle because that stakeholder piece is focusing on what are your business problems but we don’t want to know what our problems are; we know what the solution is. We want to sell to them what the solution is (Viva Learning). Then showcase Viva Learning and get them really hooked on Viva Learning; what it can do for them; how it can be used in their parts of the business; how they can sponsor usage across the business globally. 
 
 
-That middle piece of senior business adopters is missing. You need those people across the business to really get it, love it and want to sell it into the business. It is a big miss in the current Microsoft adoption approach. Need to make sure it positioned not as “what are your problems and we’ve got a good idea for a solution”, but it needs to be positioned “this is rolling out into your business, let us show you why”. It is a different lens. That is the bit that is missing. Somebody like me is somebody who is trying to push this into the business, those are the slide decks that I was missing, helping me sell it into the business. 
+That middle piece of senior business adopters is missing. You need those people across the business to really get it; love it and want to sell it into the business. It is a big miss in the current Microsoft adoption approach. Need to make sure it positioned not as “what are your problems and we’ve got a good idea for a solution”; but it needs to be positioned “this is rolling out into your business; let us show you why”. It is a different lens. That is the bit that is missing. Somebody like me is somebody who is trying to push this into the business; those are the slide decks that I was missing; helping me sell it into the business. 
 
 
 
@@ -427,33 +427,33 @@ CDO reviewed
 
  
 ",Playbook & Process,CDO - Enable
-" What idea are you suggesting?    FastTrack needs to better partner with the field/STU/ATU to ensure new to role resources understand how to partner with FastTrack. I've run into a lot of resources recently who are new to role, and have little understanding of FastTrack, its roles and its capabilities. For many years, FastTrack has been talking about ""Landing the benefit"" with the field. FastTrack and the MWA/FTA role have been in place for many years, so there should be a significant understanding of what FastTrack provides. This will lead to quicker engagement with the customer when they have needs FastTrack can provide, to speed deployment of M365 capabilities.    How would you implement this?    Work with the resources responsible for the field training content, and help to make sure they're including content specific to FastTrack + Field partnership.    What measurable impact would this idea have? (hours per week or month)    This type of knowledge would better facilitate cross team collaboration, and get customers the resources they need faster, speeding deployments.      CDO reviewed     ",Field / FastTrack Integration,CDO - Learn
-" The SPMT Manager tool is used in the NHS file migration project, alongside the SPMT tool to migrate.    Currently with any bad error that the customer receives during the migration then the migration team uploads the fatalerror.csv file to the collaboration site.    this file is of a little use to the customer as it contains the TaskID, but no way to translate it.     Solution is to use the ""Summary Report"" and the ""ItemFailure Report"" to cross reference and then supply a clear indication to the custome of which line in the schedule file has a particular error      CDO reviewed     ",Migration,CDO - Prepare
-"After being logged out of the Compliance test tenant and logging back in, the UI is defaulting to the ADG space instead of logging into the portal home page. This is happening within the private Window, so there should not be a full cache of activity 
+" What idea are you suggesting?    FastTrack needs to better partner with the field/STU/ATU to ensure new to role resources understand how to partner with FastTrack. I've run into a lot of resources recently who are new to role; and have little understanding of FastTrack; its roles and its capabilities. For many years; FastTrack has been talking about ""Landing the benefit"" with the field. FastTrack and the MWA/FTA role have been in place for many years; so there should be a significant understanding of what FastTrack provides. This will lead to quicker engagement with the customer when they have needs FastTrack can provide; to speed deployment of M365 capabilities.    How would you implement this?    Work with the resources responsible for the field training content; and help to make sure they're including content specific to FastTrack + Field partnership.    What measurable impact would this idea have? (hours per week or month)    This type of knowledge would better facilitate cross team collaboration; and get customers the resources they need faster; speeding deployments.      CDO reviewed     ",Field / FastTrack Integration,CDO - Learn
+" The SPMT Manager tool is used in the NHS file migration project; alongside the SPMT tool to migrate.    Currently with any bad error that the customer receives during the migration then the migration team uploads the fatalerror.csv file to the collaboration site.    this file is of a little use to the customer as it contains the TaskID; but no way to translate it.     Solution is to use the ""Summary Report"" and the ""ItemFailure Report"" to cross reference and then supply a clear indication to the custome of which line in the schedule file has a particular error      CDO reviewed     ",Migration,CDO - Prepare
+"After being logged out of the Compliance test tenant and logging back in; the UI is defaulting to the ADG space instead of logging into the portal home page. This is happening within the private Window; so there should not be a full cache of activity 
 
 The link provided is https://go.microsoft.com/fwlink/?linkid=2243889- after login information is entered it is redirecting to https://portal-sdf.office.com/adminportal/home?pkgver=PR_230825.132_V2#/SetupGuidance/DeploymentGuides 
 
-A log out should have cleared the cache related to the portal, and redirected to the proper location. We should not be making an assumption that the ADG space is where the user wants to go each time they login. 
+A log out should have cleared the cache related to the portal; and redirected to the proper location. We should not be making an assumption that the ADG space is where the user wants to go each time they login. 
 
 Steps to Reproduce: Samantha Marsh 
 
-Using a browser where I am signed into my Microsoft OWA, and a PPT that requires my Microsoft alias, I thin logged into the SDF Compliance tenant provided, not using in private mode. I was able to enter the required account, navigate to and leverage the AAC. 
+Using a browser where I am signed into my Microsoft OWA; and a PPT that requires my Microsoft alias; I thin logged into the SDF Compliance tenant provided; not using in private mode. I was able to enter the required account; navigate to and leverage the AAC. 
 
-Closed the corresponding tab, but left the browser running with the first 2 tabs shown below. Opened a new tab and tried opening a new browser window, navigating back to the specific tenant. Upon logging in with the same account previously used, the ADG area opened and not the default home page for the admin tenant. Do we want to assume this is where people want to land each time they log into the admin portal after closing a tab/window? The only way to have the admin page load to home, was to sign out, close all browser windows and sign back in. 
+Closed the corresponding tab; but left the browser running with the first 2 tabs shown below. Opened a new tab and tried opening a new browser window; navigating back to the specific tenant. Upon logging in with the same account previously used; the ADG area opened and not the default home page for the admin tenant. Do we want to assume this is where people want to land each time they log into the admin portal after closing a tab/window? The only way to have the admin page load to home; was to sign out; close all browser windows and sign back in. 
 
 One thing.....I am provided the test tenant URL - for all I know that is setup to default to a specific location. 
 CDO reviewed 
 
  
 ",Communications,CDO - Learn
-"Presently, we lack a guide or assessment for a customer to understand their information protection and governance readiness to move forward with Copilot. Customers who have been nominated and extended invitations to participate in the Copilot Early Access Program (EAP) have regularly expressed this concern and are seeking an understanding on how to verify their implementation of information protection and governance policies before enabling Copilot for their users. 
+"Presently; we lack a guide or assessment for a customer to understand their information protection and governance readiness to move forward with Copilot. Customers who have been nominated and extended invitations to participate in the Copilot Early Access Program (EAP) have regularly expressed this concern and are seeking an understanding on how to verify their implementation of information protection and governance policies before enabling Copilot for their users. 
  
-The current Microsoft 365 Copilot setup guide (ADG) only includes guidance on requirements/pre-requisites to assign licenses and enable Copilot features. However, a common slide presented by CSU SMEs is the ""Optimized for Microsoft 365 Copilot"" recommendations (images attached). Optimizations include Information Protection Labeling, Content / Data Migration for Semantic Indexing, SharePoint Site Restrictions, Access Reviews, Data Loss Prevention, and Retention Policies. 
+The current Microsoft 365 Copilot setup guide (ADG) only includes guidance on requirements/pre-requisites to assign licenses and enable Copilot features. However; a common slide presented by CSU SMEs is the ""Optimized for Microsoft 365 Copilot"" recommendations (images attached). Optimizations include Information Protection Labeling; Content / Data Migration for Semantic Indexing; SharePoint Site Restrictions; Access Reviews; Data Loss Prevention; and Retention Policies. 
  
 This slide would be much less overwhelming if we had an Advanced Deployment Guide that walks the customer through steps to verify their data is protected. Customers could leverage an ADG with all resources listed in one location so they are not scrambling to understand how to enable all of the optimizations and can track progress of each item. This could save time for our customers and our FastTrack team who spend countless hours looking for documentation and resources. 
  
-For example, a DSE shared the steps below with one of my customers. This items can be expanded upon to create an ADG on ""Optimized for Microsoft 365 Copilot"". Additionally, existing ADGs can be referenced within the new Optimized for Copilot ADG. 
-UtilizeContent Explorerto view sensitive information in Exchange,SharePoint, OneDrive and Teams. 
+For example; a DSE shared the steps below with one of my customers. This items can be expanded upon to create an ADG on ""Optimized for Microsoft 365 Copilot"". Additionally; existing ADGs can be referenced within the new Optimized for Copilot ADG. 
+UtilizeContent Explorerto view sensitive information in Exchange;SharePoint; OneDrive and Teams. 
 	
 	 
 		Get started: https://learn.microsoft.com/en-us/purview/data-classification-content-explorer
@@ -462,7 +462,7 @@ UtilizeContent Explorerto view sensitive information in Exchange,SharePoint, One
 		 
 			Required: Content Explorer List Viewer and/or Content Explorer Content Viewer
 		 
-				Access Content Explorer:https://compliance.microsoft.com/dataclassification/contentexplorerand navigate through the structure,
+				Access Content Explorer:https://compliance.microsoft.com/dataclassification/contentexplorerand navigate through the structure;
 		 
 		Coming Soon to Security and CompliancePowerShell- Export Content Explorer data
 		 
@@ -472,7 +472,7 @@ UtilizeContent Explorerto view sensitive information in Exchange,SharePoint, One
 	 
 		Confirm public requirement with container owner(s) and convert to private where acceptable
 		 
-		Consider planning to apply Sensitivity Labels to containers to force all M365 Groups, SharePoint sites and Teams to be private by default (please let me know if you would like to discuss this strategy)
+		Consider planning to apply Sensitivity Labels to containers to force all M365 Groups; SharePoint sites and Teams to be private by default (please let me know if you would like to discuss this strategy)
 		 
 		Consider planning to apply Sensitivity Labels to files to classify and encrypt (control access) files that have sensitive information in them
 	 
@@ -484,26 +484,26 @@ UtilizeContent Explorerto view sensitive information in Exchange,SharePoint, One
 CDO reviewed",Communications,CDO - Configure
 "Issues Addressed: 
 
-Administrators often encounter challenges in efficiently accessing our guides, leading to knowledge gaps, reduced efficiency, and frustration. This proposal directly tackles these issues by harnessing AI to create a personalized recommendation system for wizards and guides, curated to match administrators' specific roles and needs. Additionally, it addresses the challenge of enabling on-the-job learning for administrators, enhancing their skills while they work. 
+Administrators often encounter challenges in efficiently accessing our guides; leading to knowledge gaps; reduced efficiency; and frustration. This proposal directly tackles these issues by harnessing AI to create a personalized recommendation system for wizards and guides; curated to match administrators' specific roles and needs. Additionally; it addresses the challenge of enabling on-the-job learning for administrators; enhancing their skills while they work. 
 Tailored Guidance for Admins: 
 
 I've been exploring ways to elevate the value we provide to our administrators. One exciting avenue is utilizing AI to create a personalized recommendation system for our IPE wizards and guides that align with their specific roles in the admin portal. 
 
 Simplifying the Vision: 
 
-	Smart Recommendations (Classification Model): By tapping into machine learning, specifically classification models, we can predict which wizards and guides suit administrators' roles and access levels. This approach ensures admins find content tailored to their responsibilities, saving time and enhancing their effectiveness. 
+	Smart Recommendations (Classification Model): By tapping into machine learning; specifically classification models; we can predict which wizards and guides suit administrators' roles and access levels. This approach ensures admins find content tailored to their responsibilities; saving time and enhancing their effectiveness. 
 	 
-	Relevant Content Boost (Content-Based Filtering): Introducing a content-based recommendation system can align administrators' profile attributes with the content they need. This harmony between user traits and content relevance can redefine the admin experience, making their journey smoother. 
+	Relevant Content Boost (Content-Based Filtering): Introducing a content-based recommendation system can align administrators' profile attributes with the content they need. This harmony between user traits and content relevance can redefine the admin experience; making their journey smoother. 
 	 
-	Insight-Driven Choices (Matrix Factorization): Matrix factorization helps us uncover hidden patterns in how administrators interact with wizards and guides. Armed with this knowledge, we can anticipate their preferences and offer tailored recommendations that address their unique needs.
+	Insight-Driven Choices (Matrix Factorization): Matrix factorization helps us uncover hidden patterns in how administrators interact with wizards and guides. Armed with this knowledge; we can anticipate their preferences and offer tailored recommendations that address their unique needs.
 	 
 Advantages for Our Customers: 
  
-	Engaged Admins, Stronger Enterprise: Tailoring content for admins reinforces their engagement, directly contributing to theirenterprise's achievements.
+	Engaged Admins; Stronger Enterprise: Tailoring content for admins reinforces their engagement; directly contributing to theirenterprise's achievements.
 	 
-	Efficiency in Action: Administrators will navigate to pertinent content seamlessly, boosting efficiency and overall productivity.
+	Efficiency in Action: Administrators will navigate to pertinent content seamlessly; boosting efficiency and overall productivity.
 	 
-	Nurturing Excellence: Aligning content with admins' profiles fosters a culture of excellence, driving our enterprise's proficiency.
+	Nurturing Excellence: Aligning content with admins' profiles fosters a culture of excellence; driving our enterprise's proficiency.
 	 
 	
 I'm genuinely excited about the potential of this initiative. Please add any additional feedback or thoughts you may have on this item. 
@@ -512,7 +512,7 @@ I'm genuinely excited about the potential of this initiative. Please add any add
 "
 
 
-I suggest adding certain visualization to Migration Reporting on FastTrack Portal, like charts that we had in PBI reporting at the top of each page. 
+I suggest adding certain visualization to Migration Reporting on FastTrack Portal; like charts that we had in PBI reporting at the top of each page. 
 
 
 This visualization would be used for overall summary in each migration project and it would be visually more appealing than having plain numbers as we have now. 
@@ -597,10 +597,10 @@ CDO reviewed
 What idea are you suggesting? 
 
 
-Customers often ask for a list of tasks / requirements that are needed to setup for migrations. enable an exportable list of actions, and include an IPE Guide to help track progress. 
+Customers often ask for a list of tasks / requirements that are needed to setup for migrations. enable an exportable list of actions; and include an IPE Guide to help track progress. 
 
 
-While this is available on the Learn portal, it doesn't provide a complete list that the FE / FTA / MigSME can show or help the customer understand ahead of time for customers to get approval for all changes in a single place. 
+While this is available on the Learn portal; it doesn't provide a complete list that the FE / FTA / MigSME can show or help the customer understand ahead of time for customers to get approval for all changes in a single place. 
 
 
 How would you implement this? 
@@ -609,7 +609,7 @@ How would you implement this?
   
 	Provide an IPE link to provide and track all the requirements for migrations within the portal.
 	  
-		The existing ""Project Prequisites"" in the FTC migration project aren't granular enough, and cannot be exported or tracked to allow the customers to progress.
+		The existing ""Project Prequisites"" in the FTC migration project aren't granular enough; and cannot be exported or tracked to allow the customers to progress.
 		 
 		 
 		
@@ -653,10 +653,10 @@ It detalis
  
 
 
-It is not clear if these are separate accounts, and the credentials for the SharePoint Admin account will need to be shared with the Migration team. 
+It is not clear if these are separate accounts; and the credentials for the SharePoint Admin account will need to be shared with the Migration team. 
 
 
-For customers who have very strict access controls over adminiostrative accounts, this needs clarification. 
+For customers who have very strict access controls over adminiostrative accounts; this needs clarification. 
  
 A checklist of the exact accounts (and if possible RBAC perrmissions for the SPO role) 
 
@@ -701,7 +701,7 @@ The Viva Topics Lightweight Management documentation is not sufficient
 	 
 	It does not specify what permissions are needed in order to access theLightweight Topics Management portal
 	 
-	The wording is not clear on what can be managed, and how you would get there
+	The wording is not clear on what can be managed; and how you would get there
 	 
 	 
 	
@@ -748,10 +748,10 @@ Customers would be able to manage Topics created via Viva Engage easily
 CDO reviewed 
 ",Documentation,CDO - Prepare
 "
-Provide access to the MAP tool (<a href=""https://microsoft.sharepoint.com/teams/FastTrackMigrations/engineering/SitePages/Release-Notes--Migration-Assessment-and-Planning-(MAP)-Tool---August-10,-2023.aspx?xsdata=MDV8MDF8Sm9lLldlbGxzQG1pY3Jvc29mdC5jb218OGJmMTEyMjNmM2QwNGE4MDRkZWYwOGRiYTI0YzViOTd8NzJmOTg4YmY4NmYxNDFhZjkxYWIyZDdjZDAxMWRiNDd8MXwwfDYzODI4MjIyMTA2ODA4MjU2M3xVbmtub3dufFRXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMD18MzAwMHx8fA%3d%3d&amp;sdata=NTF0Vkt6SmR5Q3lkOXB5NW5tUWwxTGx0citMQjN0VnV4RWY0UUhFY0l0QT0%3d&amp;clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTY3MzEuMjAwOTQiLCAiT1MiIDogIldpbmRvd3MiIH0="">Release Notes: Migration Assessment and Planning (MAP) Tool - August 10, 2023 (sharepoint.com)) to allow migration planning and remediation actvities to take place well ahead of actual migration activities. 
+Provide access to the MAP tool (<a href=""https://microsoft.sharepoint.com/teams/FastTrackMigrations/engineering/SitePages/Release-Notes--Migration-Assessment-and-Planning-(MAP)-Tool---August-10;-2023.aspx?xsdata=MDV8MDF8Sm9lLldlbGxzQG1pY3Jvc29mdC5jb218OGJmMTEyMjNmM2QwNGE4MDRkZWYwOGRiYTI0YzViOTd8NzJmOTg4YmY4NmYxNDFhZjkxYWIyZDdjZDAxMWRiNDd8MXwwfDYzODI4MjIyMTA2ODA4MjU2M3xVbmtub3dufFRXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMD18MzAwMHx8fA%3d%3d&amp;sdata=NTF0Vkt6SmR5Q3lkOXB5NW5tUWwxTGx0citMQjN0VnV4RWY0UUhFY0l0QT0%3d&amp;clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTY3MzEuMjAwOTQiLCAiT1MiIDogIldpbmRvd3MiIH0="">Release Notes: Migration Assessment and Planning (MAP) Tool - August 10; 2023 (sharepoint.com)) to allow migration planning and remediation actvities to take place well ahead of actual migration activities. 
 
 
-We have a large UK government customer migrating from GSuite to M365 in FY24, allowing the team to run and assess the tool outputs would help with remediation activities well ahead of actual migrations. 
+We have a large UK government customer migrating from GSuite to M365 in FY24; allowing the team to run and assess the tool outputs would help with remediation activities well ahead of actual migrations. 
 
  
 
@@ -784,13 +784,13 @@ What measurable impact would this idea have? (hours per week or month) Reduce cu
 CDO reviewed 
 ",Migration,CDO - Prepare
 "
-Healthcare Customers have asked for guidance on how to approach the Copilot EAP (Early Access Program) deployment considering that the Semantic Indexing that is part of Copilot is not included in their Business Associates Agreement, which isn't HIPAA compliant. CELA has responded to KP (and other customers) that typically EAPs should not be used with Production data. This has caused KP to halt their project and are waiting to make a decision if they should even proceed with the EAP. We are looking to get further clarification from CELA, although they are hesitant to meet directly with the customer. The response below does not look like the author understood how Copilot works, and its need for production data and that customers have actually paid to use this product. This issue has been raised through the CSU to the PG, but yet to see what is to come from it. 
+Healthcare Customers have asked for guidance on how to approach the Copilot EAP (Early Access Program) deployment considering that the Semantic Indexing that is part of Copilot is not included in their Business Associates Agreement; which isn't HIPAA compliant. CELA has responded to KP (and other customers) that typically EAPs should not be used with Production data. This has caused KP to halt their project and are waiting to make a decision if they should even proceed with the EAP. We are looking to get further clarification from CELA; although they are hesitant to meet directly with the customer. The response below does not look like the author understood how Copilot works; and its need for production data and that customers have actually paid to use this product. This issue has been raised through the CSU to the PG; but yet to see what is to come from it. 
 
 
 Here is response sent to customer where I have bolded the most concerning comment --&gt; 
 
 
-Thanks for following up. Happy to meet with KP legal as needed, however, let’s please first get internal alignment on a response. As a general matter, HIPAA BAA does not cover preview products. It is usually not a concern for customers due to the limited use in preview (typically no live data, including PHI, are shared). Hence, preview terms specify that the product is NOT covered by the BAA. More importantly, it’s not covered because it has not undergone the full compliance review that is required for HIPAA BAA onboarding, and so it’s actually not something we can negotiate around, and our customers can choose whether they participate in early access, and also manage their use with the limited compliance framework. I hope this is helpful to move the conversation forward here. 
+Thanks for following up. Happy to meet with KP legal as needed; however; let’s please first get internal alignment on a response. As a general matter; HIPAA BAA does not cover preview products. It is usually not a concern for customers due to the limited use in preview (typically no live data; including PHI; are shared). Hence; preview terms specify that the product is NOT covered by the BAA. More importantly; it’s not covered because it has not undergone the full compliance review that is required for HIPAA BAA onboarding; and so it’s actually not something we can negotiate around; and our customers can choose whether they participate in early access; and also manage their use with the limited compliance framework. I hope this is helpful to move the conversation forward here. 
 
 
 CDO reviewed 
@@ -799,7 +799,7 @@ CDO reviewed
 The ""Email Setup Guide"" in the remote move part asks in ""Review Migration Features"" asks if a user with the needed role has been identified to set up Windows 365.
 
 
-In the next step it asks if we plan to use the resize feature, this is a Windows 365 feature
+In the next step it asks if we plan to use the resize feature; this is a Windows 365 feature
 
 
 
@@ -853,17 +853,17 @@ CDO reviewed
 
 ",Communications,CDO - Prepare
 "
-Add Microsoft Priva to FastTrack scope to support Copilot scenarios specifically around data oversharing, data movement, minimizationm, etc.
+Add Microsoft Priva to FastTrack scope to support Copilot scenarios specifically around data oversharing; data movement; minimizationm; etc.
 
 
 
 CDO reviewed
 ",Playbook & Process,CDO - Prepare
 "
-If known, list 'P1' or 'P2' service:
+If known; list 'P1' or 'P2' service:
 
 
-Which feature, specifically, from the product is this tied to?
+Which feature; specifically; from the product is this tied to?
 
 
 All migration that FastTrack support within our scope.
@@ -875,25 +875,25 @@ What is the problem/idea?
 Request for the details of Migration learning to be put in the FastTrack Service Description public website rather than in fasttrack.microsoft.com .
 
 
-Problem: Several partner feedback that there are too many steps and the barrier of entry is too high to get into the step/documentation of Migration detail and process. User need to get into fasttrack.microsoft.com first 1) setup account, - not include if the tenant creation or testing needed 2) sign in, 3) create account, 4) until they get the part of migration details. Many times, these detail information is already being discussed in presales to assess if the fasttrack process, benefit, and requirement is sufficient or additional effort/budget needed after the purchase.
+Problem: Several partner feedback that there are too many steps and the barrier of entry is too high to get into the step/documentation of Migration detail and process. User need to get into fasttrack.microsoft.com first 1) setup account; - not include if the tenant creation or testing needed 2) sign in; 3) create account; 4) until they get the part of migration details. Many times; these detail information is already being discussed in presales to assess if the fasttrack process; benefit; and requirement is sufficient or additional effort/budget needed after the purchase.
 
 
 What are they trying to do/achieve and/or what problem is encountered?
 
 
-they - customer or partner- either cancel, ignore it, or not moving forward when it's taking too many steps. sometimes they ended up asking too many questions to FastTrack FPM/FE/SME
+they - customer or partner- either cancel; ignore it; or not moving forward when it's taking too many steps. sometimes they ended up asking too many questions to FastTrack FPM/FE/SME
 
 
 Why is solving the problem important?
 
 
-Fasten the decision making on budget, on deployment planning as early as possible. Reduce and prevent the potential escalation or potential blocker to deploy when customer realized they could not pursue with fasttrack process, and need to use additional cost with partner or tools.
+Fasten the decision making on budget; on deployment planning as early as possible. Reduce and prevent the potential escalation or potential blocker to deploy when customer realized they could not pursue with fasttrack process; and need to use additional cost with partner or tools.
 
 
 What impact is the issue having?
 
 
-Increase time to value. Prolong the deployment planning discussion. Potential blocking the timeline. Potential restriction, issue, approval that just figured out only when the license is purchased or only when RFA is made on assessment stage, is late.
+Increase time to value. Prolong the deployment planning discussion. Potential blocking the timeline. Potential restriction; issue; approval that just figured out only when the license is purchased or only when RFA is made on assessment stage; is late.
 
 
 What use case does this address?
@@ -916,20 +916,20 @@ CDO reviewed
 
 ",Migration,CDO - Learn
 "
-For Healthcare customers, ensuring our services are HIPAA complaint are covered by the Business Associate Agreement (BAA). Unfourtantely, the Semantic Indexing capability utilized by Copilot is not yet covered by the BAA. This is causing Healthcare customers to pause the Copilot projects and determine how to proceed - do they pause entirely, limit who has access to Copilot, thus limiting the value of the EAP. The actual end user applications (like Outlook, Word, etc) are covered by the BAA - but not the Semantic Index back-end capability that allows for Copilot to fully function. The PG does plan to have an audit completed, but it is unknown if this will happen prior to GA. 
+For Healthcare customers; ensuring our services are HIPAA complaint are covered by the Business Associate Agreement (BAA). Unfourtantely; the Semantic Indexing capability utilized by Copilot is not yet covered by the BAA. This is causing Healthcare customers to pause the Copilot projects and determine how to proceed - do they pause entirely; limit who has access to Copilot; thus limiting the value of the EAP. The actual end user applications (like Outlook; Word; etc) are covered by the BAA - but not the Semantic Index back-end capability that allows for Copilot to fully function. The PG does plan to have an audit completed; but it is unknown if this will happen prior to GA. 
 
  
 
 CDO reviewed 
 ",Playbook & Process,CDO - Prepare
 "
-Customers who have been nominated and extended invitations to participate in the Copilot Early Access Program (EAP) have expressed valid concerns regarding the potential overexposure of internal data to their employees. One particular concern is the potential exposure after semantic indexing runs, which could inadvertently expose data to all employees. 
+Customers who have been nominated and extended invitations to participate in the Copilot Early Access Program (EAP) have expressed valid concerns regarding the potential overexposure of internal data to their employees. One particular concern is the potential exposure after semantic indexing runs; which could inadvertently expose data to all employees. 
 
 
-Presently, we lack a definitive guide or assessment for a customer to understand their information protection readiness to move forward with Copilot. To address these concerns effectively, customers are seeking a comprehensive understanding of how to ensure and verify their implementation of information protection and governance policies before enabling Copilot for their users. 
+Presently; we lack a definitive guide or assessment for a customer to understand their information protection readiness to move forward with Copilot. To address these concerns effectively; customers are seeking a comprehensive understanding of how to ensure and verify their implementation of information protection and governance policies before enabling Copilot for their users. 
 
 
-One recommendation highlighted in our Copilot guidance and instructional materials is leveraging the AI capabilities offered by Microsoft Syntex for automated document classification. While this may present a viable solution, Syntex would be an added cost and is not currently covered by FastTrack. 
+One recommendation highlighted in our Copilot guidance and instructional materials is leveraging the AI capabilities offered by Microsoft Syntex for automated document classification. While this may present a viable solution; Syntex would be an added cost and is not currently covered by FastTrack. 
 
 
 Customer is requesting that we provide better guidance and/or a structured assessment specifically around Information Protection readiness for Copilot. 
@@ -950,7 +950,7 @@ This way the Migration FT benefit alighs with our public docs:Data Migration - F
 CDO reviewed
 ",Migration,CDO - Prepare
 "
-What idea are you suggesting? For Teams Phone, our Teams SMEs provide guidance for migrating from Skype for Business to Teams Phone. One of our customers in the UK had over 600 response groups in Skype for Business and via ECIF, Microsoft funded a partner tool to complete the migration. This completed successfully and the CSU have asked if we have any plans for any tooling in FastTrack. The tool used was Univonix:<a href=""https://www.univonix.com/"">Univonix - Automation tools for PBX migrations 
+What idea are you suggesting? For Teams Phone; our Teams SMEs provide guidance for migrating from Skype for Business to Teams Phone. One of our customers in the UK had over 600 response groups in Skype for Business and via ECIF; Microsoft funded a partner tool to complete the migration. This completed successfully and the CSU have asked if we have any plans for any tooling in FastTrack. The tool used was Univonix:<a href=""https://www.univonix.com/"">Univonix - Automation tools for PBX migrations 
 
 
 It does invovle a tool that is not 1st party so it may be a non-starter. 
@@ -989,7 +989,7 @@ CDO reviewed
 ",Proof of Concept (PoC),CDO - Configure
 "
  
-To realy see the value of IRM, we need to have data within the POCaaS tenant. Some alerts, cases etc. so that the customer can experience how it is going to look. We hardly have one or two weeks for IRM and customer dont have time to generate data so that alerts can be generated within IRM. Similar to our demo tenant (shared IRM tenant), need to have some data to see the product in action. #POC 
+To realy see the value of IRM; we need to have data within the POCaaS tenant. Some alerts; cases etc. so that the customer can experience how it is going to look. We hardly have one or two weeks for IRM and customer dont have time to generate data so that alerts can be generated within IRM. Similar to our demo tenant (shared IRM tenant); need to have some data to see the product in action. #POC 
 
  
 
@@ -1009,24 +1009,24 @@ What measurable impact would this idea have? (hours per week or month)  Customer
  
 CDO reviewed ",Migration,CDO - Prepare
 "
-As highlighted in the June 2023 FastTrack All Hands, Microsoft customers sometinmes have unclear intent to deploy MDE due to a competiting incumbent solution such as Crowdstrike. As the FastTrack team highlighted in the call, they were able to overcome objections to non-MDE workloads (MDA) by running a pilot that demonstrated how MDE could run in passive mode alongside Crowdstrike while delivering additional value realisation from the E5 stack. There are several such examples (Passive: MDE EndPoint DLP --&gt; IRM, or MDE --&gt; MDA / MDCA), but none of these are easily demonstrated or discussed due to the lack of any centralised documentation. Perhaps we could come up with a common set of guidelines for what is possible to do with MDE in Passive mode to further the compete plays in other E5 Security and Compliance areas. Over time, this gives us much greater leverage against difficult competitors. 
+As highlighted in the June 2023 FastTrack All Hands; Microsoft customers sometinmes have unclear intent to deploy MDE due to a competiting incumbent solution such as Crowdstrike. As the FastTrack team highlighted in the call; they were able to overcome objections to non-MDE workloads (MDA) by running a pilot that demonstrated how MDE could run in passive mode alongside Crowdstrike while delivering additional value realisation from the E5 stack. There are several such examples (Passive: MDE EndPoint DLP --&gt; IRM; or MDE --&gt; MDA / MDCA); but none of these are easily demonstrated or discussed due to the lack of any centralised documentation. Perhaps we could come up with a common set of guidelines for what is possible to do with MDE in Passive mode to further the compete plays in other E5 Security and Compliance areas. Over time; this gives us much greater leverage against difficult competitors. 
 
  
 
 CDO reviewed 
 ",Documentation,CDO - Configure
 "
-If known, list 'P1' or 'P2' service: affect all versions as ACM materials apply for all
+If known; list 'P1' or 'P2' service: affect all versions as ACM materials apply for all
 
 
-Which feature, specifically, from the product is this tied to? ACM - Adoption and Change Management
+Which feature; specifically; from the product is this tied to? ACM - Adoption and Change Management
 
 
 What is the problem/idea? - Links in customer facing Deck are incorrect - linking to a an emty space.
 
 
 
-ACM Deck, Slide 8 - ""Homepage"" &amp; ""Adoption Workbook"" &amp; ""Champions Networks""
+ACM Deck; Slide 8 - ""Homepage"" &amp; ""Adoption Workbook"" &amp; ""Champions Networks""
  
 
 
@@ -1051,7 +1051,7 @@ CDO reviewed
 
 ",Documentation,CDO - Learn
 "
-I have observed that the Deployment Wizards for Teams Setup Guide and Phone System Deployment provide distinct sets of networking guidance information. In my view, it would be advantageous for consistency purposes if the networking guidance were standardized across all deployment wizards, including their titles. Moreover, I appreciate the inclusion of the Quality and Reliability Checklist information (see attached screenshot) and think it should be included. Additionally, it may be beneficial to incorporate or add the discussion on Call Quality Dashboard (CQD) and Building Tenant File when addressing networking matters with customers. This would serve as a seamless transition point in the conversation.
+I have observed that the Deployment Wizards for Teams Setup Guide and Phone System Deployment provide distinct sets of networking guidance information. In my view; it would be advantageous for consistency purposes if the networking guidance were standardized across all deployment wizards; including their titles. Moreover; I appreciate the inclusion of the Quality and Reliability Checklist information (see attached screenshot) and think it should be included. Additionally; it may be beneficial to incorporate or add the discussion on Call Quality Dashboard (CQD) and Building Tenant File when addressing networking matters with customers. This would serve as a seamless transition point in the conversation.
 
 
 
@@ -1061,13 +1061,13 @@ CDO reviewed
 It seems a deck is being linked from the <a href=""https://fasttrack365-kb.powerappsportals.com/?id=KA-01044"">task#203 as below. 
 
 
-""The EE FastTrack Engineer will need to lead a Deployment Technical Planning meeting with the customer as the first step of this task.The EE FastTrack Engineer shall coordinate with the FTA or FM to schedule a deployment technical planning meeting with the customer’s technical roles reviewed in the kickoff. FastTrack should ensure to include all Microsoft folks in the meeting as applicable including account team, CSU (e.g. CSM), Modern Work Specialists, etc. 
+""The EE FastTrack Engineer will need to lead a Deployment Technical Planning meeting with the customer as the first step of this task.The EE FastTrack Engineer shall coordinate with the FTA or FM to schedule a deployment technical planning meeting with the customer’s technical roles reviewed in the kickoff. FastTrack should ensure to include all Microsoft folks in the meeting as applicable including account team; CSU (e.g. CSM); Modern Work Specialists; etc. 
 
 
 The EE FE shall conduct the deployment technical planning meeting with the customer using the<a href=""https://fasttrack365-kb.powerappsportals.com/?id=KB-02136"">Viva Deployment Technical Planning deck. The agenda for this meeting is:..."" 
 
 
-However, the link takes me to a different page. 
+However; the link takes me to a different page. 
 
 
 Please correct the URL link so that we can delivery the workshop. 
@@ -1079,7 +1079,7 @@ CDO reviewed
 "
 What idea are you suggesting? 
  
-For the UK dedicated MOP to have a sign or a different layout (to differentiate it from the standard MOP). Now, the only difference is the link (url:<a href=""https://uk.fasttrack.microsoft.com/mop/home"">uk.fasttrack.microsoft.com/mop/home) - see attached printscreen 
+For the UK dedicated MOP to have a sign or a different layout (to differentiate it from the standard MOP). Now; the only difference is the link (url:<a href=""https://uk.fasttrack.microsoft.com/mop/home"">uk.fasttrack.microsoft.com/mop/home) - see attached printscreen 
  
  
 
@@ -1102,7 +1102,7 @@ What measurable impact would this idea have? (hours per week or month)
  
  
  
-Minimal. However, it would have impact on the security side (we will reduce the risk to acces the wrong customer information by accesing the wrong MOP) 
+Minimal. However; it would have impact on the security side (we will reduce the risk to acces the wrong customer information by accesing the wrong MOP) 
 
  
 
@@ -1125,13 +1125,13 @@ The description of these tasks in the table as well as the additional details on
 CDO reviewed 
 ",Communications,CDO - Learn
 "
-The Plan stage of project progress is not relevant to the vast majority of customer engagements. A remediation checklist was helpful in the early days of the OBC when customers were relatively immature, but these days customers are coming to us with specific questions for specific workloads. This means we are going directly to Tech Onboarding, and the Plan step is just unnecessary administrative and DQ overhead. 
+The Plan stage of project progress is not relevant to the vast majority of customer engagements. A remediation checklist was helpful in the early days of the OBC when customers were relatively immature; but these days customers are coming to us with specific questions for specific workloads. This means we are going directly to Tech Onboarding; and the Plan step is just unnecessary administrative and DQ overhead. 
 
 
-I suggest removing Plan altogether, or at least make the tasks optional (not required) so we can bypass it on the way to Tech Onboarding. 
+I suggest removing Plan altogether; or at least make the tasks optional (not required) so we can bypass it on the way to Tech Onboarding. 
 
 
-The Playbook should also include, perhaps in Kickoff, a prompt to check for relevant IPEs/ADGs/wizards. In fact, it would be useful if the tool could suggest IPEs that might apply to the workloads in scope. This would be far more practical and useful than a remediation checklist task. 
+The Playbook should also include; perhaps in Kickoff; a prompt to check for relevant IPEs/ADGs/wizards. In fact; it would be useful if the tool could suggest IPEs that might apply to the workloads in scope. This would be far more practical and useful than a remediation checklist task. 
 
  
 
@@ -1145,7 +1145,7 @@ For the automation aspects in the wizards as we increase automation - we should 
 CDO reviewed 
 ",Communications,CDO - Configure
 "
-Currently, when I view the ""Advanced deployment guides &amp; assistance"" page in Japanese and select All guides, only ""Communication and conferencing with Microsoft Teams (5)"" is displayed, and the other menus are no longer displayed. Since it will not be possible to guide customers, please correct it so that the menu is displayed as soon as possible. 
+Currently; when I view the ""Advanced deployment guides &amp; assistance"" page in Japanese and select All guides; only ""Communication and conferencing with Microsoft Teams (5)"" is displayed; and the other menus are no longer displayed. Since it will not be possible to guide customers; please correct it so that the menu is displayed as soon as possible. 
 
  
 
@@ -1155,10 +1155,10 @@ CDO reviewed
 	</style>
 	<style data-make-styles-bucket=""t"" type=""text/css"">
 	</style>
-I would like to recommend a change to unify all security Defender BVDs into one BVD, instead of having separate BVDs for MDE MDO MDI MDA. The new BVD would focus on Security (XDR) and educate the customer about it in 3 to 4 slides. Then, the presenters would pause on a slide that shows all the XDR workloads and let the customer choose the first workload they are interested in. 
+I would like to recommend a change to unify all security Defender BVDs into one BVD; instead of having separate BVDs for MDE MDO MDI MDA. The new BVD would focus on Security (XDR) and educate the customer about it in 3 to 4 slides. Then; the presenters would pause on a slide that shows all the XDR workloads and let the customer choose the first workload they are interested in. 
 
 
-<span style=""background-color:rgba(255, 255, 255, 0.6)"">This would help maintain the customer engagement with FTC even after we complete the enablement for one workload. SMEs would always go back to the same slides with the goal of enabling security workloads rather than just individual workloads. 
+<span style=""background-color:rgba(255; 255; 255; 0.6)"">This would help maintain the customer engagement with FTC even after we complete the enablement for one workload. SMEs would always go back to the same slides with the goal of enabling security workloads rather than just individual workloads. 
 
 
 It will also educate customers about Microsoft approach when it comes to security.  
@@ -1174,7 +1174,7 @@ CDO reviewed
 I would like to propose an improvement that would enhance the customer experience of running the MDE wizard (ADG). 
 
 
-Since most of our customers are already using Intune, it would be helpful if we could update the wizard to include clear instructions and links to enable the connectors from both Intune and MDE sides. This way, the customer can easily navigate to the relevant page where they need to enable the connector and once done they will return to the wizard and carry on the rest of the wizard steps. By the end of the wizard, all Intune enrolled devices will be in the onboarding phase. 
+Since most of our customers are already using Intune; it would be helpful if we could update the wizard to include clear instructions and links to enable the connectors from both Intune and MDE sides. This way; the customer can easily navigate to the relevant page where they need to enable the connector and once done they will return to the wizard and carry on the rest of the wizard steps. By the end of the wizard; all Intune enrolled devices will be in the onboarding phase. 
 
 
 I think this will save time and accelerate the customer adoption of the service. It will also help the SME save time can focus more on the educational/QA and other onboarding activities. 
@@ -1202,7 +1202,7 @@ Update the Partner playbookhttps://fasttrack365-kb.powerappsportals.com/?id=KB-0
 What measurable impact would this idea have? (hours per week or month) 
 
 
-Not sure it would be measurable, but would help re-empahise ADGs to Partners via the Partner Playbook section. 
+Not sure it would be measurable; but would help re-empahise ADGs to Partners via the Partner Playbook section. 
 
 
 PGI ADO ID:https://dev.azure.com/O365fasttrack/PGI/_workitems/edit/436521 
@@ -1217,7 +1217,7 @@ PGI ADO ID:https://dev.azure.com/O365fasttrack/PGI/_workitems/edit/416250
 Thanks 
 
 
-Elsa, Celia and Aubrey 
+Elsa; Celia and Aubrey 
 
 
 RCDE Team. 
@@ -1246,7 +1246,7 @@ How would you implement this?
 	  
 		ME logic will only delete a batch if all users are marked as complete in that batch or any other batches in ME
 		 
-		The deletion will take place only if a user is completed successfully, not if the user was failed
+		The deletion will take place only if a user is completed successfully; not if the user was failed
 		 
 		Batches are deleted after 20 days
 		  
@@ -1268,7 +1268,7 @@ How would you implement this?
 	  
 		There is a property in our batch table which shows whether the batch has been deleted in MRS
 		  
-			If batch is deleted in ME or is manually deleted between the 20-60 day period, it will appear in this table
+			If batch is deleted in ME or is manually deleted between the 20-60 day period; it will appear in this table
 			 
 			 
 			
@@ -1312,7 +1312,7 @@ What measurable impact would this idea have? (hours per week or month) Enable cu
 CDO reviewed 
 ",Communications,CDO - Learn
 "
-Cx found the Exchange Online BVD interesting, however the data/chart/analytics are outdated. They would like more fresh data in this presentation.
+Cx found the Exchange Online BVD interesting; however the data/chart/analytics are outdated. They would like more fresh data in this presentation.
 
 
 FastTrack Knowledge Base (powerappsportals.com)
@@ -1321,10 +1321,10 @@ FastTrack Knowledge Base (powerappsportals.com)
 https://fasttrack365-kb.powerappsportals.com/?id=KB-02456
 
 
-If known, list 'P1' or 'P2' service:
+If known; list 'P1' or 'P2' service:
 
 
-Which feature, specifically, from the product is this tied to? (ie: AADP P2 - Feature: Access Review)
+Which feature; specifically; from the product is this tied to? (ie: AADP P2 - Feature: Access Review)
 
 
 Issue relies on the story of the Cloud: Migration From Exchange Onpremise to Exchange Online
@@ -1333,7 +1333,7 @@ Issue relies on the story of the Cloud: Migration From Exchange Onpremise to Exc
 Is this a legal requirement?
 
 
-Yes, Customer entity is a financial institution based in Switzerland
+Yes; Customer entity is a financial institution based in Switzerland
 
 
 Is this an industry regulation?
@@ -1345,7 +1345,7 @@ Finance
 Is there a compete offering?
 
 
-Why did you select the priority level, what is the problem, impact, and other information you need to pass to the team?
+Why did you select the priority level; what is the problem; impact; and other information you need to pass to the team?
 
 
 It's a cloud strategy and regulation question. However please note that I am doing this Feedback to improve Cx facing documentation and help Cx take their decision.
@@ -1360,7 +1360,7 @@ What is the UAT#?
 What is the number of users blocker?
 
 
-Note sure, it could be 500-1000 seats entity, part of a 120000 seats organization
+Note sure; it could be 500-1000 seats entity; part of a 120000 seats organization
 
 
 Is engineering committed? (Y/N) Information:
@@ -1486,7 +1486,7 @@ What idea are you suggesting?Link in the page to be fixed
 How would you implement this? Fix the link 
 
 
-What measurable impact would this idea have? (hours per week or month) - can not estimate. Basically, is blocking the activity we do (as migration SME). We do not have acces to the file 
+What measurable impact would this idea have? (hours per week or month) - can not estimate. Basically; is blocking the activity we do (as migration SME). We do not have acces to the file 
 
  
 
@@ -1511,7 +1511,7 @@ CDO reviewed
  
 ",Playbook & Process,"CDO - Prepare,FPM"
 "
-Problem statement: Often the customers operate in the FT portal / MigHub with an adminstrator account that might not have a mailbox (or it might be unmonitored), and that can lead to missed emails. Here's an example based in a real situation: 
+Problem statement: Often the customers operate in the FT portal / MigHub with an adminstrator account that might not have a mailbox (or it might be unmonitored); and that can lead to missed emails. Here's an example based in a real situation: 
 
 
  
@@ -1519,24 +1519,24 @@ Problem statement: Often the customers operate in the FT portal / MigHub with an
 	 
 	MST creates a ticket.
 	 
-	MST wants to arrange a call with the customer for troubleshooting, and asks via email the user who created the ticket.
+	MST wants to arrange a call with the customer for troubleshooting; and asks via email the user who created the ticket.
 	 
 	The email assigned to the user in the FT portal is unmonitored. Subsequent emails are missed and MST closes the ticket.
 	 
-	The FT user sees that the ticket is closed, unexpectedly for them.
+	The FT user sees that the ticket is closed; unexpectedly for them.
 	 
 	 
 	
 
 
 
-Idea:if available, communicate with the FT user using the recipients specified in the project card because: 
+Idea:if available; communicate with the FT user using the recipients specified in the project card because: 
 
 
  
 	the customer is much more likely to specify a valid email address there because otherwise they won't receive event notifications.
 	 
-	typically there are a few recipients specified, so it's more resilient for OOF/vacation situations.
+	typically there are a few recipients specified; so it's more resilient for OOF/vacation situations.
 	 
 	 
 	
@@ -1546,7 +1546,7 @@ Idea:if available, communicate with the FT user using the recipients specified i
 If there are no recipients in the project card the use the email address for the FT user as a backup. 
 
 
-As an alternate idea/solution, ask for the user email address when a ticket is submitted. 
+As an alternate idea/solution; ask for the user email address when a ticket is submitted. 
 
  
 
@@ -1556,25 +1556,25 @@ CDO reviewed
 What is the problem/idea? Why is solving the problem important? 
 
 
-Customers can submit migration events before prerequisites are complete. These migration events will probably fail, leading to customer frustration. 
+Customers can submit migration events before prerequisites are complete. These migration events will probably fail; leading to customer frustration. 
 
 
 What are they trying to do/achieve and/or what problem is encountered? 
 
 
-Customer is doing a GDrive to ODFB migration. One of the prerequisite steps is to have a call with MST to create/verify the Mover connectors and app authorizations in AADP. Until this call is done and all is found to be OK the MST will not consider the migration project active/ready to accept migrations, and any event submitted by the customer will fail because MST won't accept/process it. 
+Customer is doing a GDrive to ODFB migration. One of the prerequisite steps is to have a call with MST to create/verify the Mover connectors and app authorizations in AADP. Until this call is done and all is found to be OK the MST will not consider the migration project active/ready to accept migrations; and any event submitted by the customer will fail because MST won't accept/process it. 
 
 
 What impact is the issue having?  
 
 
-Delayed migration due to avoidable test migration failures, customer disatisfaction. 
+Delayed migration due to avoidable test migration failures; customer disatisfaction. 
 
 
 Proposed solution: 
 
 
-In MigHub, disable UI elements related to event creation until the project is marked as active/ready by MST. Optionally, add a final item such as ""I confirm that I have completed all prerequisites and I'm ready to submit migration events"". 
+In MigHub; disable UI elements related to event creation until the project is marked as active/ready by MST. Optionally; add a final item such as ""I confirm that I have completed all prerequisites and I'm ready to submit migration events"". 
 
 
 Next to the disabled element add a link to the project prerequisites in the project card/learning center. 
@@ -1584,7 +1584,7 @@ Next to the disabled element add a link to the project prerequisites in the proj
 CDO reviewed 
 ",Migration,CDO - Prepare
 "
-Since Microsoft 365 Copilot has been announced and there is a paid private preview coming available for customers, many FTAs are asking for additional readiness and content on Microsoft 365 Copilot. The STU and their field counterparts are constantly asking for FastTrack's involvement in Microsoft 365 Copilot. I recommend we have a few different content pieces created for the FTAs. 
+Since Microsoft 365 Copilot has been announced and there is a paid private preview coming available for customers; many FTAs are asking for additional readiness and content on Microsoft 365 Copilot. The STU and their field counterparts are constantly asking for FastTrack's involvement in Microsoft 365 Copilot. I recommend we have a few different content pieces created for the FTAs. 
  
  
  
@@ -1594,14 +1594,14 @@ Since Microsoft 365 Copilot has been announced and there is a paid private previ
 2. Provide the elevator pitch and training that the field teams have received to the FTAs. This will ensure we are all on the same page on how M365 Copilot is being communicated to customers and how the field is pitching the preview. 
 
 
-3. Learning path for FTAs on Copilot. I am sure this is in the works, but it would be great to give the FTAs a timeline on when they can expect a learning path on Copilot. (Totally fine if the answer is H2.) 
+3. Learning path for FTAs on Copilot. I am sure this is in the works; but it would be great to give the FTAs a timeline on when they can expect a learning path on Copilot. (Totally fine if the answer is H2.) 
 
  
 
 CDO reviewed 
 ",Learn,CDO - Learn
 "
-In the Intune Setup Guide, there is not guidance for enrolling existing devices into Autopilot - it does not specify that Autopilot features service existing devices - my customer had confusion on this and was not aware they should be enrolling existing devices through Autopilot or why. 
+In the Intune Setup Guide; there is not guidance for enrolling existing devices into Autopilot - it does not specify that Autopilot features service existing devices - my customer had confusion on this and was not aware they should be enrolling existing devices through Autopilot or why. 
 
  
 
@@ -1618,7 +1618,7 @@ Suggesting that we revamp the Remediation Checklist and implement the RCL within
 Once those are all captured we can then use/store this data within the Microsoft 365 Admin Center. Using the data within the ADG's/IPE wizards as an API or in a way that passes the RCL info to the ADGs/IPE wizards. That way we would be providing customers an automated/curated experience that is tailored to their wants or needs. 
 
 
-For example customers would go through the RCL in the admin center, it then provides them options of what to deploy first from the ADG list. They select Intune. The Intune ADG will then already have all the information it needs to provide them with the steps they need to complete deployment. 
+For example customers would go through the RCL in the admin center; it then provides them options of what to deploy first from the ADG list. They select Intune. The Intune ADG will then already have all the information it needs to provide them with the steps they need to complete deployment. 
 
 
 This will also provide Microsoft Support/FastTrack etc. with valuble information needed during troubleshooting or during engagements to have an idea of what the customers environment currently entails. As opposed to having to go through the RCL which may come off as inundated material that doesn't really fit anymore with the new IPE process. 
@@ -1635,11 +1635,11 @@ CDO reviewed
 
 ",Communications,CDO - Prepare
 "
-Background: The field teamin Thailand has recently reached to FastTrack team to support their customer to deploy and setup all M365 workloads in a non-production tenant. We have responded to the field team that FastTrack support customers to deploy M365 workloads in production tenant only. Field team highlighted they are unable to find any clause in our <a href=""https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fmicrosoft-365%2Ffasttrack%2Fintroduction&amp;data=05%7C01%7CLee.Stephanie%40microsoft.com%7C83cdc3cbc24940cf890e08db55b12efd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638197991815288807%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=cBy8pixl9LmXFdryg2OcbAz%2B9DTlwI0XsiDPgQqX8h4%3D&amp;reserved=0"" style=""color: rgba(5, 99, 193, 1)"">FastTrack Center Benefit for Microsoft 365​ - FastTrack – Microsoft 365 | Microsoft Learnthat states “FastTrack do not support non-production tenant deployment” and they highlighted this is causing confusion to our customers since this is not clearly defined in the M365 FastTrack Benefits site and the customers are quite unahappy with this. 
+Background: The field teamin Thailand has recently reached to FastTrack team to support their customer to deploy and setup all M365 workloads in a non-production tenant. We have responded to the field team that FastTrack support customers to deploy M365 workloads in production tenant only. Field team highlighted they are unable to find any clause in our <a href=""https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fmicrosoft-365%2Ffasttrack%2Fintroduction&amp;data=05%7C01%7CLee.Stephanie%40microsoft.com%7C83cdc3cbc24940cf890e08db55b12efd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638197991815288807%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=cBy8pixl9LmXFdryg2OcbAz%2B9DTlwI0XsiDPgQqX8h4%3D&amp;reserved=0"" style=""color: rgba(5; 99; 193; 1)"">FastTrack Center Benefit for Microsoft 365​ - FastTrack – Microsoft 365 | Microsoft Learnthat states “FastTrack do not support non-production tenant deployment” and they highlighted this is causing confusion to our customers since this is not clearly defined in the M365 FastTrack Benefits site and the customers are quite unahappy with this. 
  
  
  
-Ask: To ensure FastTrack team stay focus to support our customers to deploy M365 workloads in production tenant so that our customers can maximize the ROI on their M365/O365 investment, it is important to include this clause in our “FastTrack Center Benefit for Microsoft 365” site to avoid confusion to the field team and our customers in the future. Understand you are the contributor to the content in “FastTrack Center Benefit for Microsoft 365” site, seeking your guidance on what action is needed from our end to get the content in “FastTrack Center Benefit for Microsoft 365” site update to reflect this. 
+Ask: To ensure FastTrack team stay focus to support our customers to deploy M365 workloads in production tenant so that our customers can maximize the ROI on their M365/O365 investment; it is important to include this clause in our “FastTrack Center Benefit for Microsoft 365” site to avoid confusion to the field team and our customers in the future. Understand you are the contributor to the content in “FastTrack Center Benefit for Microsoft 365” site; seeking your guidance on what action is needed from our end to get the content in “FastTrack Center Benefit for Microsoft 365” site update to reflect this. 
 
  
 
@@ -1658,7 +1658,7 @@ What idea are you suggesting? Multiple customers asking for Intune Suite to be i
 How would you implement this? Train SMEs and add Intune Suite features to our scope 
 
 
-What measurable impact would this idea have? (hours per week or month) More Intune Suite add-on purchases, customers realizing the value of that purchase faster. 
+What measurable impact would this idea have? (hours per week or month) More Intune Suite add-on purchases; customers realizing the value of that purchase faster. 
 
  
 
@@ -1686,19 +1686,19 @@ CDO reviewed
 Licenses Usage within the Defender portal (Settings &gt; Endpoint &gt; Licenses) is causing confusion with customers
 
 
-When evaluating the actual usage for 'Microsoft Defender for Endpoint Server' SKU, it shows that 0 licenses (of total amount) have been utilized.
+When evaluating the actual usage for 'Microsoft Defender for Endpoint Server' SKU; it shows that 0 licenses (of total amount) have been utilized.
 
 
 The customer has been deploying MDE to their servers and do not know (per this interface) the number of remaining licensees.
 
 
-Although, I have explained to the customer that this is not an accurate representation of the number of servers have been onboarded to Defender and we can run reports to see the number of servers that have actually be onboarded to Defender.
+Although; I have explained to the customer that this is not an accurate representation of the number of servers have been onboarded to Defender and we can run reports to see the number of servers that have actually be onboarded to Defender.
 
 
-This is okay for the technical team, but this becomes more of and 'issue' during license renewal. When the accounting team looks at the licenses they purchased and sees that they are not utilizing 'Microsoft Defender for Endpoint Server' licenses purchased, the account team question if they should continue to renew the above licenses.
+This is okay for the technical team; but this becomes more of and 'issue' during license renewal. When the accounting team looks at the licenses they purchased and sees that they are not utilizing 'Microsoft Defender for Endpoint Server' licenses purchased; the account team question if they should continue to renew the above licenses.
 
 
-Within FT, we do not deal with licensing, but they have come to us to get clarification on how the licenses have been distributed amongst their servers.
+Within FT; we do not deal with licensing; but they have come to us to get clarification on how the licenses have been distributed amongst their servers.
 
 
 
@@ -1721,7 +1721,7 @@ CDO reviewed
 ",Other,CDO - Configure
 "
 
-Add inside this area of the Network protection coverage https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/network-protection?view=o365-worldwide#network-protection-coverage the current status for the IPV6. From our discussion in the global MDE calls we know that there are long term plans for IPv6 support, but cx need to see the official statement on our docs based on this option. /p&gt; 
+Add inside this area of the Network protection coverage https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/network-protection?view=o365-worldwide#network-protection-coverage the current status for the IPV6. From our discussion in the global MDE calls we know that there are long term plans for IPv6 support; but cx need to see the official statement on our docs based on this option. /p&gt; 
  
  
  
